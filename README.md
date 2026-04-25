@@ -11,9 +11,8 @@ The dashboard is powered by structured datasets and an optimized data model to d
 ## 📸 Dashboard Preview
 
 <p align="center">
-  <img src="images/dashboard.png" alt="Employee Training Dashboard" width="900"/>
+  <img src="images/dashboard.gif" alt="Employee Training Dashboard" width="900"/>
 </p>
-
 ---
 
 ## 🧩 Data Model
